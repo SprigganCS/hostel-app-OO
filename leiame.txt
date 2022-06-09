@@ -1,2 +1,0 @@
-Repl.it disponível em: 
-https://replit.com/@SprigganCS/HostelApp#main.cpp
