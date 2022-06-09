@@ -1,6 +1,0 @@
-disponibilidade quartos do tipo standard
-disponibilidade quartos do tipo solteiro
-disponibilidade quartos do tipo executivo
-quartos totais do tipo standard
-quartos totais do tipo solteiro
-quartos totais do tipo executivo
