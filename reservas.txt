@@ -1,3 +1,0 @@
-Tipo Nome Sobrenome   ----------------------------Endereço--------------------------     Telefone          Email            Chegada     Saida         Pagamento
-
-1   André Medeiros   Rua Joaquim Santos, 544, Centro, 14544-000, Araraquara, SP, Brasil  16997876654  andrenmed@gmail.com  20220425  20220427  Débito VISA 4444-4444-4444-4444
